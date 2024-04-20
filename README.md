@@ -1,2 +1,2 @@
 # ruangdigital
-File JS Lewat
+Shortcode Safelink for blog/website download 
